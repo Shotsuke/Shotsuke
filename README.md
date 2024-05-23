@@ -4,8 +4,10 @@ Call me Shotsuke 😀 Love you ❤️
 
 - 🛠️ Coding Language: C, C++, HTML, CSS, QT, Vue
 - 😄 Pronouns: Up to you, she/cat/hamster/he are all OK.
+- 💉 ISFJ
+- 📖 Major: Computer Science and Technology, Information and Computing Science
 - 📫 How to reach me:
-  - Mainly: Shotsuke@proton.me
+  - Mainly: Shotsuke@proton.me / 1946029982@qq.com
   - Extremely formal or appointed: 221502023@smail.nju.edu.cn
 - 🔭 I’m currently working on: STUDY
 - 📌 My pinned repositories:
