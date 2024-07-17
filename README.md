@@ -9,12 +9,15 @@ Call me Shotsuke 😀 Love you ❤️
 - 📫 How to reach me:
   - Mainly: Shotsuke@proton.me / 1946029982@qq.com
   - Extremely formal or appointed: 221502023@smail.nju.edu.cn
-- 🔭 I’m currently working on: STUDY
+- 🔭 I’m currently working on:
+  - JYY OS M6, L1, L2.
+  - CS144: Computer Network.
+  - Reading hexo source code and trying to build a scheme on my own.
 - 📌 My pinned repositories:
   - 🗒️ My Blog: [Shotsuke's Blog](https://shotsuke.github.io/) 🫰 Read my fictions :)
   - 🪀 A toy lexer for analyze simple language.
   - 📖 Project (finished): A website to manage rural libraries.
-  - 🛒 Project (doing): A website to introduct CN tea leaves to RUS.
+  - 🛒 Project (aborted): A website to introduct CN tea leaves to RUS.
 - 🎮 Game: Elden Ring, Sekiro, Valorant, CS.
 
 <!--
