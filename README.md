@@ -14,14 +14,15 @@ Call me Shotsuke 😀 Love you ❤️
   - CS110L: Learning Rust
   - KAIST CS420: Compiler Design
   - Reading hexo source code and trying to build a scheme on my own.
-    - HAVE DONE (temporarily only for PC)! And continue fixing bugs and building.
+    - HAVE DONE (temporarily only for PC)! And continueing fixing bugs and building.
     - Have a look at repository: shotsuke.github.io/theme/onimai-style
 - 📌 My pinned repositories:
   - 🗒️ My Blog: [Shotsuke's Blog](https://shotsuke.github.io/) 🫰 Read my fictions :)
   - 🪀 A toy lexer for analyze simple language.
   - 📖 Project (finished): A website to manage rural libraries.
   - 🛒 Project (aborted): A website to introduct CN tea leaves to RUS.
-- 🎮 Game: Valorant, Deadlock, Riichi Mahjong, The binding of Issac, Slay the Spire.
+- 🎮 Game: ~~Elden Ring~~, ~~Sekiro~~, ~~Valorant~~, ~~CS~~, ~~Deadlock~~, ~~Riichi Mahjong~~, Chess, Rhythm Game(PJSK, Arcaea, 4K), The binding of Issac, Slay the Spire.
+  - Just want to play to RELAX.
 
 <!--
 **Shotsuke/Shotsuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
