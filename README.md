@@ -12,7 +12,7 @@ Call me Shotsuke 😀 Love you ❤️
   - Junior Courses
   - CS144: Computer Network
   - CS110L: Learning Rust
-  - KAIST CS420: Compiler Design
+  - (After Learning Rust)KAIST CS420: Compiler Design
   - Reading hexo source code and trying to build a scheme on my own.
     - HAVE DONE (temporarily only for PC)! And continueing fixing bugs and building.
     - Have a look at repository: shotsuke.github.io/theme/onimai-style
