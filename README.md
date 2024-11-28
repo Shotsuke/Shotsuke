@@ -10,6 +10,10 @@ Call me Shotsuke 😀 Love you ❤️
   - Shotsuke@proton.me / 1946029982@qq.com
 - 🔭 I’m currently working on:
   - Junior Courses
+    - Computer Networking
+    - Intro to Database
+    - Digital Logic
+    - Formal Languages and Automata
   - CS144: Computer Network
   - CS110L: Learning Rust
   - (After Learning Rust)KAIST CS420: Compiler Design
@@ -20,8 +24,7 @@ Call me Shotsuke 😀 Love you ❤️
   - 🗒️ My Blog: [Shotsuke's Blog](https://shotsuke.github.io/) 🫰 Read my fictions :)
   - 🪀 A toy lexer for analyze simple language.
   - 📖 Project (finished): A website to manage rural libraries.
-  - 🛒 Project (aborted): A website to introduct CN tea leaves to RUS.
-- 🎮 Game: ~~Elden Ring~~, ~~Sekiro~~, ~~Valorant~~, ~~CS~~, ~~Deadlock~~, ~~Riichi Mahjong~~, Chess, Rhythm Game(PJSK, Arcaea, 4K), The binding of Issac, Slay the Spire.
+- 🎮 Game: ~~Elden Ring, Sekiro, Valorant, CS, Deadlock, Riichi Mahjong, Rhythm Game(PJSK, Arcaea, 4K)~~, Chess, The binding of Issac, Slay the Spire, Stardew Valley.
   - Just want to play to RELAX.
 
 <!--
