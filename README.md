@@ -10,13 +10,6 @@ Call me Shotsuke 😀 Love you ❤️
   - Shotsuke@proton.me / 1946029982@qq.com
 - 🔭 I’m currently working on:
   - Junior Courses
-    - Computer Networking
-    - Intro to Database
-    - Digital Logic
-    - Formal Languages and Automata
-  - CS144: Computer Network
-  - CS110L: Learning Rust
-  - (After Learning Rust)KAIST CS420: Compiler Design
   - Reading hexo source code and trying to build a scheme on my own.
     - HAVE DONE (temporarily only for PC)! And continueing fixing bugs and building.
     - Have a look at repository: shotsuke.github.io/theme/onimai-style
@@ -24,8 +17,8 @@ Call me Shotsuke 😀 Love you ❤️
   - 🗒️ My Blog: [Shotsuke's Blog](https://shotsuke.github.io/) 🫰 Read my fictions :)
   - 🪀 A toy lexer for analyze simple language.
   - 📖 Project (finished): A website to manage rural libraries.
-- 🎮 Game: ~~Elden Ring, Sekiro, Valorant, CS, Deadlock, Riichi Mahjong, Rhythm Game(PJSK, Arcaea, 4K)~~, Chess, The binding of Issac, Slay the Spire, Stardew Valley.
-  - Just want to play to RELAX.
+- 🎮 Game: Riichi Mahjong, Stardew Valley, Some Visual Novels.
+  - Just want play to RELAX.
 
 <!--
 **Shotsuke/Shotsuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
