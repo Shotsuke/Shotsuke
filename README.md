@@ -1,23 +1,20 @@
 ## About Me
 
-Call me Shotsuke 😀 Love you ❤️
+Call me Shotsuke Shiina, Love you ❤️
 
-- 🛠️ Coding Language: C, C++, HTML, CSS, QT, Vue
-- 😄 Pronouns: Up to you, she/cat/hamster/he are all OK.
-- 💉 ISFJ
-- 📖 Major: Computer Science and Technology, Information and Computing Science
-- 📫 How to reach me:
-  - Shotsuke@proton.me / 1946029982@qq.com
-- 🔭 I’m currently working on:
-  - Junior Courses
-  - Reading hexo source code and trying to build a scheme on my own.
-    - HAVE DONE (temporarily only for PC)! And continueing fixing bugs and building.
-    - Have a look at repository: shotsuke.github.io/theme/onimai-style
-- 📌 My pinned repositories:
-  - 🗒️ My Blog: [Shotsuke's Blog](https://shotsuke.github.io/) 🫰 Read my fictions :)
-  - 🪀 A toy lexer for analyze simple language.
-  - 📖 Project (finished): A website to manage rural libraries.
-- 🎮 Game: Riichi Mahjong, Stardew Valley, Some Visual Novels.
+- Coding Language: C, C++, PY, HTML, CSS, QT, Vue
+- Pronouns: Up to you, she/cat/hamster/he are all OK.
+- ISFJ
+- Major: Computer Science and Technology, Information and Computing Science
+- How to reach me:
+  - Shotsuke@proton.me / Shotsuke@gmail.com
+- I’m currently working on:
+  - Senior Courses
+  - Entity Alignment
+- My pinned repositories:
+  - My Blog: [Shotsuke's Blog](https://shotsuke.github.io/) Read my fictions :)
+  - OpenKG-ToolAgent: Coding for OpenKG, instructing an mcp tool agent using its tools and data. 
+- Game: Riichi Mahjong, Visual Novel, Deadlock.
   - Just want play to RELAX.
 
 <!--
